@@ -1,16 +1,106 @@
-## Hi there 👋
+# Hi, I'm [Mohd Mubeen] 👋
+[![Profile Views](https://komarev.com/ghpvc/?username=mdmubeen-2055&color=0e75b6)](https://github.com/mdmubeen-2055)
 
-<!--
-**mdmubeen-2055/mdmubeen-2055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Insight Seeker | Python Enthusiast
 
-Here are some ideas to get you started:
+I am a Data Analyst passionate about turning complex datasets into actionable business insights. I specialize in building interactive dashboards and performing statistical analysis to drive data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: **Customer Segmentation Models**
+- 🧭 Pronouns: [Your Pronouns]
+- 📫 Reach me at: **[mdmubeen2055@gmail.com]**
+- 💼 Current role: **Data Analyst at [Current Company or "Seeking New Opportunities"]**
+- 🔎 Open to: Data Analyst / Business Intelligence roles
+
+---
+
+## 📊 Core Skills & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-5BBAD5?logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/-Looker_Studio-0F9D58?logo=google&logoColor=white)
+![Statistics](https://img.shields.io/badge/-Statistics-9B59B6)
+
+---
+
+## ⭐ Featured Projects
+
+- E-commerce Sales Dashboard — A Power BI dashboard analyzing $2M in sales data to identify seasonal trends and high-impact product categories.  
+  Tech: Power BI, SQL  
+  Repo / Demo: [add repo or demo link]
+
+- Customer Churn Prediction — A machine learning model that predicts users likely to churn using transactional and engagement features; used to prioritize retention efforts.  
+  Tech: Python, Scikit-Learn, Jupyter  
+  Repo / Demo: [add repo or demo link]
+
+- Web Scraping & Sentiment Analysis — Collected Twitter/X data to analyze public sentiment on tech topics and produced visual summaries to inform product marketing.  
+  Tech: BeautifulSoup, NLTK, Python  
+  Repo / Demo: [add repo or demo link]
+
+Tip: Provide repo URLs, short README excerpts, or screenshots/GIFs for each project and I’ll embed them.
+
+---
+
+## 📈 GitHub Stats
+Theme: radical (dark-friendly)
+
+![mdmubeen-2055's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmubeen-2055&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmubeen-2055&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdmubeen-2055&theme=radical)
+
+---
+
+## 🧾 Resume & Portfolio
+- Portfolio: [Link to your Portfolio site or Linktree]  
+- Resume: [Link to a Google Drive PDF or hosted Resume]
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [LinkedIn URL]  
+- X / Twitter: [Twitter/X URL]  
+- Website: [Your Website / Portfolio]  
+- Email: [Your Email]
+
+---
+
+## 🎯 What I'm Learning / Exploring
+- Advanced statistical modeling and causal inference
+- Scalable ETL pipelines and data engineering for analytics
+- Visualization best practices for executive-level dashboards
+
+---
+
+## ⚡ Fun Fact
+I love solving Sudoku puzzles — I find data cleaning oddly therapeutic and similar to organizing a tricky Sudoku board.
+
+---
+
+## 🛠️ Want this README committed to your profile?
+If you'd like, I can:
+1. Fill in the remaining placeholders with your provided values.
+2. Add project repo/demo links and embed screenshots.
+3. Prepare a commit for your profile repository (typically github.com/<username>/<username>) — I’ll need the repo name and permission to push or a copy of the repo to prepare a patch.
+
+---
+
+Made with data-driven care. Let me know the missing details below and I’ll finalize the README and prepare the commit:
+- Full name (exact)
+- Pronouns (optional)
+- Exact current company / or "Seeking New Opportunities"
+- Public email
+- Portfolio URL
+- LinkedIn URL
+- Twitter/X URL (optional)
+- Resume URL (optional)
+- Repo or demo links for the 3 projects (or confirm you want me to keep placeholders)
+- Do you want screenshots/GIFs for projects? If yes, attach images or links.
+- Confirm theme: radical (recommended) or dark (alternate)
+- Confirm badges: keep "Top Langs" + "GitHub Streak" (already included) or add/remove
+
+Once you reply with those, I’ll produce the final README (and can also create the exact commit content if you want).
