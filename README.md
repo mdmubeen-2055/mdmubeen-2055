@@ -13,13 +13,8 @@ I am a Data Analyst passionate about turning complex datasets into actionable bu
 
 ---
 
-## 📊 Core Skills & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+## 📊 Core Skills 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-5BBAD5?logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
@@ -57,15 +52,15 @@ Theme: radical (dark-friendly)
 
 ## 🧾 Resume & Portfolio
 - Portfolio: [Link to your Portfolio site or Linktree]  
-- Resume: [Link to a Google Drive PDF or hosted Resume]
+- Resume: [https://drive.google.com/file/d/1W-LmIt3htUA3F-_KY2XuNtEg-tSM3-Qn/view?usp=drivesdk]
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [LinkedIn URL]  
+- LinkedIn: [https://www.linkedin.com/in/mohd-mubeen-68265238a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
 - X / Twitter: [Twitter/X URL]  
 - Website: [Your Website / Portfolio]  
-- Email: [Your Email]
+- Email: [mdmubeen2055@gmail.com]
 
 ---
 
@@ -93,9 +88,9 @@ Made with data-driven care. Let me know the missing details below and I’ll fin
 - Full name (exact)
 - Pronouns (optional)
 - Exact current company / or "Seeking New Opportunities"
-- Public email
+- Public email mdmubeen2055@gmail.com 
 - Portfolio URL
-- LinkedIn URL
+- LinkedIn URL https://www.linkedin.com/in/mohd-mubeen-68265238a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Twitter/X URL (optional)
 - Resume URL (optional)
 - Repo or demo links for the 3 projects (or confirm you want me to keep placeholders)
