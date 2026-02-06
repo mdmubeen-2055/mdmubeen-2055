@@ -6,7 +6,8 @@
 I am a Data Analyst passionate about turning complex datasets into actionable business insights. I specialize in building interactive dashboards and performing statistical analysis to drive data-driven decision-making.
 
 - 🔭 Currently working on: **Customer Segmentation Models**
-- 🧭 Pronouns: [Your Pronouns]
+- 🧭 Pronouns: [![Pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-blue?style=flat-square)
+
 - 📫 Reach me at: **[mdmubeen2055@gmail.com]**
 - 💼 Current role: **Data Analyst at [Current Company or "Seeking New Opportunities"]**
 - 🔎 Open to: Data Analyst / Business Intelligence roles
@@ -79,27 +80,3 @@ I love solving Sudoku puzzles — I find data cleaning oddly therapeutic and sim
 
 ---
 
-## 🛠️ Want this README committed to your profile?
-If you'd like, I can:
-1. Fill in the remaining placeholders with your provided values.
-2. Add project repo/demo links and embed screenshots.
-3. Prepare a commit for your profile repository (typically github.com/<username>/<username>) — I’ll need the repo name and permission to push or a copy of the repo to prepare a patch.
-
----
-
-Made with data-driven care. Let me know the missing details below and I’ll finalize the README and prepare the commit:
-- Full name (exact)
-- Pronouns (optional)
-- Exact current company / or "Seeking New Opportunities"
-- Public email mdmubeen2055@gmail.com 
-- Portfolio URL
-https://github.com/mdmubeen-2055/Customer-Behavior-Analysis
- LinkedIn URL  https://www.linkedin.com/in/mohd-mubeen-68265238a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Twitter/X URL (optional)
-- Resume URL (optional)
-- Repo or demo links for the 3 projects (or confirm you want me to keep placeholders)
-- Do you want screenshots/GIFs for projects? If yes, attach images or links.
-- Confirm theme: radical (recommended) or dark (alternate)
-- Confirm badges: keep "Top Langs" + "GitHub Streak" (already included) or add/remove
-
-Once you reply with those, I’ll produce the final README (and can also create the exact commit content if you want).
