@@ -51,7 +51,8 @@ Theme: radical (dark-friendly)
 ---
 
 ## 🧾 Resume & Portfolio
-- Portfolio: [https://github.com/mdmubeen-2055/Customer-Behavior-Analysis/commit/dc9214b89e12c0f7555a016bbe0bab87ff631433]  
+- Portfolio
+https://github.com/mdmubeen-2055/Customer-Behavior-Analysis  
 - Resume: [https://drive.google.com/file/d/1W-LmIt3htUA3F-_KY2XuNtEg-tSM3-Qn/view?usp=drivesdk]
 
 ---
@@ -90,7 +91,8 @@ Made with data-driven care. Let me know the missing details below and I’ll fin
 - Exact current company / or "Seeking New Opportunities"
 - Public email mdmubeen2055@gmail.com 
 - Portfolio URL
-https://github.com/mdmubeen-2055/Custome-Behavior-Analysis/commit/dc9214b89e12c0f7555a016bbe0bab87ff631433- LinkedIn URL  https://www.linkedin.com/in/mohd-mubeen-68265238a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+https://github.com/mdmubeen-2055/Customer-Behavior-Analysis
+ LinkedIn URL  https://www.linkedin.com/in/mohd-mubeen-68265238a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Twitter/X URL (optional)
 - Resume URL (optional)
 - Repo or demo links for the 3 projects (or confirm you want me to keep placeholders)
