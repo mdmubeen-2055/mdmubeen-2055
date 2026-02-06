@@ -50,11 +50,13 @@ Theme: radical (dark-friendly)
 
 ---
 
-## 🧾 Resume & Portfolio
+## 🧾 Resume ,Portfolio and Certificate 
 - Portfolio
 https://github.com/mdmubeen-2055/Customer-Behavior-Analysis  
 - Resume: [https://drive.google.com/file/d/1W-LmIt3htUA3F-_KY2XuNtEg-tSM3-Qn/view?usp=drivesdk]
 
+-Certificate 
+https://drive.google.com/drive/folders/1Jkn1AG9tDhJ8NUFXQYtM_HquXyohfAQ0
 ---
 
 ## 📫 Connect with Me
